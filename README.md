@@ -1,153 +1,136 @@
-<div align="center">
+![Hero banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,50:06B6D4,100:7C3AED&text=Dipanshu%20Choudhary&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20Systems%20Builder&descAlignY=58&descSize=20)  
+![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=E2E8F0&center=true&vCenter=true&width=860&lines=Building+production-grade+AI+systems;Designing+agentic+workflows;Shipping+real-world+LLM+products;Turning+AI+ideas+into+scalable+software)
 
-<!-- Hero Typing Animation -->
-<a href="https://github.com/dipanshuchoudhary-data">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2F80ED&center=true&vCenter=true&width=680&lines=Dipanshu+Choudhary;AI+%2F+ML+Engineer+%7C+Agentic+AI+Builder;Turning+LLMs+into+Production+Systems" alt="Typing SVG" />
-</a>
+  
+  
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dipanshuchoudhary.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshuchoudhary)[ ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DipanshuChoudhary109@gmail.com)[ ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipanshuchoudhary-data)
 
-<!-- Value Proposition -->
-<p><strong>I build intelligent systems that think, remember, and act — from multi-agent frameworks to secure AI-native products.</strong></p>
+  
+  
 
-<br/>
-
-<!-- Role + Tech Badges -->
-![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-2F80ED?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-1C3C3C?style=flat-square)
-![RAG Systems](https://img.shields.io/badge/RAG%20Systems-0d1117?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dipanshuchoudhary-data&style=flat-square&color=2F80ED&label=Profile+Views)
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=dipanshuchoudhary-data&style=for-the-badge&color=2563EB)
 
 ---
 
-## What I Build
+## About Me
 
-- **Agentic AI Systems** — Multi-agent frameworks with persistent memory, tool orchestration, and real-world integrations
-- **RAG Pipelines** — Retrieval-augmented applications with vector search and source-grounded responses
-- **Secure AI Products** — Backend-authoritative platforms combining LLMs with robust system design
-- **Computer Vision** — Real-time detection and recognition pipelines with OpenCV and deep learning
-
-## Core Strengths
-
-- End-to-end product delivery — from prototype to production
-- RAG architecture design, vector database optimization, and retrieval tuning
-- Bridging AI research concepts with practical, scalable engineering
-- Strong ML fundamentals across NLP, CV, and LLM fine-tuning
-
-## Current Focus
-
-- Shipping production-ready **multi-agent systems** with long-term memory and tool use
-- Researching **agentic evaluation** frameworks for LLM output quality
-- Responsible deployment of LLM-based products at scale
+**I build AI systems that are meant to ship, scale, and create measurable impact.**  
+  
+I focus on agentic AI, LLM product engineering, retrieval pipelines, and backend systems built for real-world reliability.  
+  
+My work sits at the intersection of intelligent automation, production architecture, and practical machine learning.  
+  
+I care about systems that are not only capable, but also usable, maintainable, and deployment-ready.
 
 ---
 
-## Featured Projects
+## Core Focus Areas
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Area
 
-### [Quizzer](https://github.com/dipanshuchoudhary-data/Quizzer)
-**AI-Powered Secure Examination Platform**
+What I Build
 
-Traditional online exams are easy to game and hard to scale — Quizzer fixes both.
+`Agentic AI`
 
-- AI quiz generation with configurable difficulty and scope
-- Backend-authoritative exam flow that blocks client-side manipulation
-- Real-time integrity monitoring with automated anomaly flagging
-- Automated evaluation engine with detailed performance analytics
+Multi-step agents with tool use, memory, orchestration, and execution logic
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+`LLM Systems`
 
-</td>
-<td width="50%" valign="top">
+Production workflows with structured outputs, guardrails, and reliability layers
 
-### [Maantra-1.0](https://github.com/dipanshuchoudhary-data/Maantra-1.0)
-**Intelligent Slack AI Assistant**
+`RAG Pipelines`
 
-Teams lose hours to context-switching — Maantra brings intelligence directly into the workflow.
+Grounded retrieval systems with search, ranking, and response quality optimization
 
-- Persistent memory for context-aware, multi-turn conversations
-- RAG pipeline for organizational knowledge retrieval with source grounding
-- Real-world tool integrations for task execution inside Slack
-- Workflow orchestration automating repetitive knowledge work
+`Backend Engineering`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white)
+FastAPI services, async APIs, data flows, and scalable integration layers
 
-</td>
-</tr>
-</table>
+`AI Evaluation`
+
+Quality measurement, testing loops, and confidence-building systems for AI products
+
+---
+
+## Flagship Builds
+
+### 🚀 Quizzer
+
+**Problem:** Online assessments are often generic, insecure, and difficult to scale with quality.  
+  
+**Solution:** Built an AI-powered assessment platform that improves quiz generation, evaluation flow, and system reliability.  
+  
+**Impact:** Enables faster, smarter, and more secure testing experiences for learning and evaluation use cases.  
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white) ![LLM Workflows](https://img.shields.io/badge/LLM%20Workflows-1E293B?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white)  
+  
+[![Quizzer repo](https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipanshuchoudhary-data/Quizzer)
+
+### 🧠 Maantra
+
+**Problem:** Most AI assistants fail on long-running, context-heavy tasks that require memory and structured action.  
+  
+**Solution:** Built an autonomous agent system with persistent context, multi-step reasoning, and workflow-driven execution.  
+  
+**Impact:** Moves AI interaction closer to true task ownership instead of one-turn response generation.  
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0F766E?style=flat-square) ![Memory Systems](https://img.shields.io/badge/Memory%20Systems-7C3AED?style=flat-square)  
+  
+[![Maantra repo](https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipanshuchoudhary-data/Maantra-1.0)
 
 ---
 
 ## Tech Stack
 
-**Languages**
+#### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)  
+![Java](https://img.shields.io/badge/Java-EA580C?style=flat-square&logo=openjdk&logoColor=white)
 
-**AI / ML**
+#### AI / ML
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square)  
+![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F59E0B?style=flat-square&logo=huggingface&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Frameworks & Tools**
+#### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC2626?style=flat-square&logo=redis&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1E293B?style=flat-square)
 
-**Databases**
+#### DevOps
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=flat-square)  
+![MLflow](https://img.shields.io/badge/MLflow-2563EB?style=flat-square)
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dipanshuchoudhary-data&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshuchoudhary-data&layout=compact&theme=default&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=dipanshuchoudhary-data&theme=default&hide_border=true" />
-
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanshuchoudhary-data&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&text_color=E2E8F0&icon_color=22D3EE&rank_icon=github&count_private=true&include_all_commits=true)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipanshuchoudhary-data&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=E2E8F0&langs_count=8)  
+![GitHub streak](https://streak-stats.demolab.com?user=dipanshuchoudhary-data&theme=transparent&hide_border=true&ring=60A5FA&fire=22D3EE&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 ---
 
-## Connect
+## Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshuchoudhary)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dipanshuchoudhary-data)
+-   Multi-agent systems for real-world execution
+-   LLM evaluation and response quality
+-   Production AI architecture and backend reliability
 
 ---
 
-<div align="center">
-  <sub>Open to full-time roles, collaborations, and interesting AI engineering challenges.</sub>
-</div>
+## Let’s Build Something Impactful
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanshuchoudhary) [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DipanshuChoudhary109@gmail.com)[ ![Portfolio](https://img.shields.io/badge/View%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dipanshuchoudhary.netlify.app/)
