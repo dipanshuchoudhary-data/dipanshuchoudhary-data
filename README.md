@@ -231,14 +231,6 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dipanshuchoudhary-data&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=8" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
