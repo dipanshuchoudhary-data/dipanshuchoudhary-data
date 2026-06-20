@@ -239,14 +239,6 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ---
 
-## 📡 Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshuchoudhary-data&theme=react-dark&hide_border=true&color=e94560&line=e94560&point=ffffff" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="left">
