@@ -1,11 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Dipanshu%20Choudhary&fontSize=52&fontColor=F8F5EE&fontAlignY=40&desc=AI%2FML%20Engineer%20%E2%80%94%20Agentic%20Systems%20%E2%80%94%20Production%20LLM%20Pipelines&descSize=18&descAlignY=60&color=0:1a1a2e,30:16213e,60:0f3460,100:e94560" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=270&section=header&text=DIPANSHU%20CHOUDHARY&fontSize=48&fontColor=F8F5EE&fontAlignY=39&desc=AI%2FML%20ENGINEER%20%7C%20AGENTIC%20SYSTEMS%20%7C%20PRODUCTION%20LLM%20PIPELINES&descSize=16&descAlignY=61&animation=twinkling&stroke=e94560&strokeWidth=2&color=0:090b16,45:16213e,75:0f3460,100:1a1a2e" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=960&color=e94560&lines=I+build+agentic+AI+systems+for+real+workflows.;I+ship+LLM+pipelines+with+structured+generation+%26+guardrails.;I+design+RAG+stacks+with+retrieval+quality+%26+evaluation+loops.;Orchestration+layers+over+demo-day+magic.+Always.;My+best+work+happens+when+the+LLM+is+told+what+not+to+do." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=900&duration=2800&center=true&vCenter=true&width=960&color=e94560&background=090b1600&lines=%E2%96%88+I+build+agentic+AI+systems+for+real+workflows.;%E2%96%88+I+ship+LLM+pipelines+with+structured+generation+%26+guardrails.;%E2%96%88+I+design+RAG+stacks+with+retrieval+quality+%26+evaluation+loops.;%E2%96%88+Orchestration+over+demo-day+magic.+Always." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipanshuchoudhary-data&style=for-the-badge&color=e94560&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=dipanshuchoudhary-data&style=for-the-badge&color=e94560&label=PROFILE+VIEWS" alt="Profile views" />
   &nbsp;
   <img src="https://img.shields.io/badge/OPEN_TO-Agentic_AI_Roles-0f3460?style=for-the-badge" />
   &nbsp;
@@ -147,10 +149,14 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ## 💼 Experience
 
-| Role | Where | Period |
-|------|--------|--------|
-| 🧑‍💻 **AI Product Engineer** *(Freelance)* | TZURONI LTD. | Mar 2026 – Apr 2026 |
-| 🔬 **Research Assistant** | Dr. Garima Bohra — Assistive Technology Research | Ongoing |
+| Role | Where | Period | Focus & technologies |
+|------|--------|--------|----------------------|
+| 🧑‍💻 **AI Product Engineer** *(Freelance)* | TZURONI LTD. | Mar 2026 – Apr 2026 | Agentic AI · RAG · LangGraph · FastAPI · PostgreSQL |
+| 🔬 **Research Assistant** | Dr. Garima Bohra — Assistive Technology Research | Ongoing | Computer Vision · Edge AI · Python · Assistive Technology |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,pytorch,opencv&perline=7&theme=dark" alt="Experience technology icons" />
+</p>
 
 ---
 
@@ -166,7 +172,7 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,bash&perline=7&theme=dark" alt="Programming language icons" />
 </p>
 
 `Python` &nbsp; `Java` &nbsp; `JavaScript` &nbsp; `TypeScript`
@@ -175,7 +181,7 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ### 🤖 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,huggingface&perline=4&theme=dark" alt="AI and machine learning icons" />
 </p>
 
 `Deep Learning` &nbsp; `Transformers` &nbsp; `Generative AI` &nbsp; `LLMs` &nbsp; `NLP` &nbsp; `Prompt Engineering` &nbsp; `Advanced RAG`
@@ -184,7 +190,7 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ### 🧩 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nextjs,react,express,flask&perline=6&theme=dark" alt="Framework icons" />
 </p>
 
 `LangChain` &nbsp; `LangGraph` &nbsp; `LangSmith` &nbsp; `CrewAI` &nbsp; `TensorFlow` &nbsp; `PyTorch` &nbsp; `Next.js` &nbsp; `Celery` &nbsp; `WebSockets`
@@ -193,7 +199,7 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ### ⚡ Backend & Systems
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,rabbitmq,nginx&perline=6&theme=dark" alt="Backend and systems icons" />
 </p>
 
 `FastAPI` &nbsp; `REST APIs` &nbsp; `Asynchronous Systems` &nbsp; `Celery` &nbsp; `WebSockets`
@@ -202,7 +208,7 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,sqlite&perline=5&theme=dark" alt="Database icons" />
 </p>
 
 `PostgreSQL` &nbsp; `MySQL` &nbsp; `Redis` &nbsp; `pgvector`
@@ -211,7 +217,7 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 
 ### ☁️ Cloud, DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,linux,vercel&perline=9&theme=dark" alt="Cloud, DevOps and tooling icons" />
 </p>
 
 `AWS` &nbsp; `Google Cloud Platform (GCP)` &nbsp; `Docker` &nbsp; `CI/CD Pipelines` &nbsp; `Git` &nbsp; `GitHub`
@@ -234,7 +240,11 @@ Distributed async pipelines with Celery task coordination, Redis queues, and rea
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img width="100%" src="./dist/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+    <img width="100%" src="./dist/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+  </picture>
 </p>
 
 ---
