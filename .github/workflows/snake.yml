@@ -22,9 +22,10 @@ jobs:
           github_user_name: dipanshuchoudhary-data
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light
 
       - name: Commit and push generated snake
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update contribution snake"
-          file_pattern: dist/github-contribution-grid-snake-dark.svg
+          file_pattern: dist/github-contribution-grid-snake*.svg
