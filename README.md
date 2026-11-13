@@ -6,6 +6,7 @@
 
 <p>
   <a href="mailto:DipanshuChoudhary109@gmail.com">Email</a> ·
+  <a href="tel:+917011860328">+91 7011860328</a> ·
   <a href="https://github.com/dipanshuchoudhary-data">GitHub</a> ·
   <a href="https://dipanshuchoudhary.netlify.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/dippuch7011/">LinkedIn</a>
@@ -62,7 +63,7 @@ engineer = {
 
 ### Quizzer · Secure Assessment Platform
 **Next.js · TypeScript · FastAPI · PostgreSQL · Redis · Celery · LangGraph · LangSmith · DeepEval · Docker**  
-**Dec 2025 – Present · [Live](https://quizzer.live/)**
+**Dec 2025 – Present · Live**
 
 - Architected a dual-runtime assessment platform with cookie-JWT creator workspace and isolated X-Attempt-Token exam runtime, spanning **~200 REST endpoints across 31 routers, 2 WebSockets, and 35 data models**.
 - Built authoring, secure delivery, live monitoring, Arena battles, grading, analytics, Google Classroom/Calendar/Drive, and Microsoft Teams integrations.
@@ -72,7 +73,7 @@ engineer = {
 
 ### Life Route AI · Emergency Healthcare Coordination
 **FastAPI · PostgreSQL · pgvector · Redis Streams · WebSockets · Event-Driven Architecture · Geospatial Routing · Docker**  
-**Jun 2026 – Aug 2026 · [GitHub](https://github.com/dipanshuchoudhary-data)**
+**Jun 2026 – Aug 2026 · GitHub**
 
 - Architecting a real-time emergency healthcare coordination platform spanning **20+ REST/WebSocket APIs and 15+ domain models** across patient identity, Health Passport, emergency events, ambulance telemetry, hospital capabilities, care paths, referrals, transfers, and follow-up workflows.
 - Designing an event-driven AI triage and care-path orchestration system using LangGraph, FastAPI, PostgreSQL/pgvector, Redis Streams, and LLMs.
